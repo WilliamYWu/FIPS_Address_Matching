@@ -1,17 +1,3 @@
----
-jupytext:
-  text_representation:
-    extension: .md
-    format_name: myst
-    format_version: 0.13
-    jupytext_version: 1.14.4
-kernelspec:
-  display_name: Python 3
-  name: python3
----
-
-+++ {"id": "v_-BsdBDEC7J"}
-
 # **Tutorial: All About XGBoost**
 
 Welcome! This tutorial will introduce the core code and features for the machine learning model: XGBoost. In particular, we will focus on introducing the XBGClassifier model derived from the xgboost library.
