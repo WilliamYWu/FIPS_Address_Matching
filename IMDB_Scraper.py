@@ -57,7 +57,7 @@ def timeit_memoryusage(method):
 
 def directory_setup(dir_list):
     '''
-    DESCRIPTION > If the directory does not exist it will create it
+    DESCRIPTION -> If the directory does not exist it will create it
     '''
     for directory in dir_list:
         if not os.path.exists(directory):
